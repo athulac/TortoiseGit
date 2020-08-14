@@ -1,3 +1,4 @@
 Add newly in local
 this edited on remote
 check pull this server
+chekc local change goto remote dvelop and remote, this is done in local devlop
